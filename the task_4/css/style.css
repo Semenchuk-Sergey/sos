@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header, footer{
+	background: #EEE8AA;
+	min-height: 50px;
+	margin: 20px;
+	border: solid 2px;
+}
+footer{
+	min-height: 50px;
+}
+.wrap{
+	background: #808080;
+	border: solid 2px;
+	margin: 20px;
+}
+
+main{
+	background: #3CB371;
+	min-height: 300px;
+	border: solid 2px;
+	float: left;
+	width: 60%;
+	padding: 10px;
+	margin: 10px;
+}
+.sidebar{
+	background: #3CB371;
+	border: solid 2px;
+	min-height: 300px;
+	float: left;
+	width: 40%;
+	padding: 10px;
+	margin: 10px;
+
+}
+.clear{
+	clear: left;
+}
